@@ -1,3 +1,4 @@
+/* GENERAL */
 * {
     margin: 0.1rem;
     padding: 0;
@@ -10,7 +11,7 @@
     height: 4%;
     max-width: 100%;
     background-image: url('cover.jpg');
-    background-attachment: fixed;
+    background-attachment: relative;
     background-position: center;
 }
 
@@ -110,4 +111,6 @@
     color: white;
     text-decoration: none;
 }
+
+
 
