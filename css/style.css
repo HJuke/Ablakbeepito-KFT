@@ -47,7 +47,9 @@
   
 .topnav a.active {
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom-style: solid;
+    border-bottom-width: 0.2rem;
 }
   
 .topnav .icon {
